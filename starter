@@ -42,5 +42,4 @@ for turn in range(10):
 
 #how do you make all the turtles move?
 for turn in range(100):
-  ada.forward(2)
-  #fill in code here
+  #what can you write in here to make the turtles move?
